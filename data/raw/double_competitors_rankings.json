@@ -1,0 +1,274 @@
+{
+  "generated_at": "2024-05-01T12:00:00+00:00",
+  "rankings": [
+    {
+      "type_id": 1,
+      "name": "ATP Doubles",
+      "year": 2024,
+      "week": 18,
+      "gender": "men",
+      "competitor_rankings": [
+        {
+          "rank": 1,
+          "movement": 0,
+          "points": 7450,
+          "competitions_played": 22,
+          "competitor": {
+            "id": "sr:competitor:1001",
+            "name": "Marcel Granollers",
+            "country": "Spain",
+            "country_code": "ESP",
+            "abbreviation": "GRA"
+          }
+        },
+        {
+          "rank": 1,
+          "movement": 0,
+          "points": 7450,
+          "competitions_played": 22,
+          "competitor": {
+            "id": "sr:competitor:1002",
+            "name": "Horacio Zeballos",
+            "country": "Argentina",
+            "country_code": "ARG",
+            "abbreviation": "ZEB"
+          }
+        },
+        {
+          "rank": 3,
+          "movement": 1,
+          "points": 6900,
+          "competitions_played": 20,
+          "competitor": {
+            "id": "sr:competitor:1003",
+            "name": "Matthew Ebden",
+            "country": "Australia",
+            "country_code": "AUS",
+            "abbreviation": "EBD"
+          }
+        },
+        {
+          "rank": 4,
+          "movement": -1,
+          "points": 6850,
+          "competitions_played": 21,
+          "competitor": {
+            "id": "sr:competitor:1004",
+            "name": "Rohan Bopanna",
+            "country": "India",
+            "country_code": "IND",
+            "abbreviation": "BOP"
+          }
+        },
+        {
+          "rank": 5,
+          "movement": 0,
+          "points": 6500,
+          "competitions_played": 19,
+          "competitor": {
+            "id": "sr:competitor:1005",
+            "name": "Joe Salisbury",
+            "country": "United Kingdom",
+            "country_code": "GBR",
+            "abbreviation": "SAL"
+          }
+        },
+        {
+          "rank": 6,
+          "movement": 0,
+          "points": 6420,
+          "competitions_played": 19,
+          "competitor": {
+            "id": "sr:competitor:1006",
+            "name": "Rajeev Ram",
+            "country": "United States",
+            "country_code": "USA",
+            "abbreviation": "RAM"
+          }
+        },
+        {
+          "rank": 7,
+          "movement": 2,
+          "points": 5890,
+          "competitions_played": 24,
+          "competitor": {
+            "id": "sr:competitor:1007",
+            "name": "Mate Pavic",
+            "country": "Croatia",
+            "country_code": "CRO",
+            "abbreviation": "PAV"
+          }
+        },
+        {
+          "rank": 8,
+          "movement": -1,
+          "points": 5740,
+          "competitions_played": 23,
+          "competitor": {
+            "id": "sr:competitor:1008",
+            "name": "Nikola Mektic",
+            "country": "Croatia",
+            "country_code": "CRO",
+            "abbreviation": "MEK"
+          }
+        },
+        {
+          "rank": 9,
+          "movement": 0,
+          "points": 5600,
+          "competitions_played": 21,
+          "competitor": {
+            "id": "sr:competitor:1009",
+            "name": "Ivan Dodig",
+            "country": "Croatia",
+            "country_code": "CRO",
+            "abbreviation": "DOD"
+          }
+        },
+        {
+          "rank": 10,
+          "movement": 3,
+          "points": 5320,
+          "competitions_played": 25,
+          "competitor": {
+            "id": "sr:competitor:1010",
+            "name": "Austin Krajicek",
+            "country": "United States",
+            "country_code": "USA",
+            "abbreviation": "KRA"
+          }
+        },
+        {
+          "rank": 11,
+          "movement": -2,
+          "points": 5100,
+          "competitions_played": 22,
+          "competitor": {
+            "id": "sr:competitor:1011",
+            "name": "Neal Skupski",
+            "country": "United Kingdom",
+            "country_code": "GBR",
+            "abbreviation": "SKU"
+          }
+        },
+        {
+          "rank": 12,
+          "movement": 0,
+          "points": 4950,
+          "competitions_played": 18,
+          "competitor": {
+            "id": "sr:competitor:1012",
+            "name": "Wesley Koolhof",
+            "country": "Netherlands",
+            "country_code": "NED",
+            "abbreviation": "KOO"
+          }
+        },
+        {
+          "rank": 13,
+          "movement": 1,
+          "points": 4750,
+          "competitions_played": 20,
+          "competitor": {
+            "id": "sr:competitor:1013",
+            "name": "Edouard Roger-Vasselin",
+            "country": "France",
+            "country_code": "FRA",
+            "abbreviation": "ROV"
+          }
+        },
+        {
+          "rank": 14,
+          "movement": -1,
+          "points": 4620,
+          "competitions_played": 23,
+          "competitor": {
+            "id": "sr:competitor:1014",
+            "name": "Santiago Gonzalez",
+            "country": "Mexico",
+            "country_code": "MEX",
+            "abbreviation": "GON"
+          }
+        },
+        {
+          "rank": 15,
+          "movement": 0,
+          "points": 4480,
+          "competitions_played": 21,
+          "competitor": {
+            "id": "sr:competitor:1015",
+            "name": "Kevin Krawietz",
+            "country": "Germany",
+            "country_code": "GER",
+            "abbreviation": "KRA"
+          }
+        },
+        {
+          "rank": 16,
+          "movement": 0,
+          "points": 4480,
+          "competitions_played": 21,
+          "competitor": {
+            "id": "sr:competitor:1016",
+            "name": "Tim Puetz",
+            "country": "Germany",
+            "country_code": "GER",
+            "abbreviation": "PUE"
+          }
+        },
+        {
+          "rank": 17,
+          "movement": 2,
+          "points": 4210,
+          "competitions_played": 26,
+          "competitor": {
+            "id": "sr:competitor:1017",
+            "name": "Max Purcell",
+            "country": "Australia",
+            "country_code": "AUS",
+            "abbreviation": "PUR"
+          }
+        },
+        {
+          "rank": 18,
+          "movement": -2,
+          "points": 4050,
+          "competitions_played": 24,
+          "competitor": {
+            "id": "sr:competitor:1018",
+            "name": "Jordan Thompson",
+            "country": "Australia",
+            "country_code": "AUS",
+            "abbreviation": "THO"
+          }
+        },
+        {
+          "rank": 19,
+          "movement": 0,
+          "points": 3900,
+          "competitions_played": 17,
+          "competitor": {
+            "id": "sr:competitor:1019",
+            "name": "Marcelo Arevalo",
+            "country": "El Salvador",
+            "country_code": "ESA",
+            "abbreviation": "ARE"
+          }
+        },
+        {
+          "rank": 20,
+          "movement": 1,
+          "points": 3810,
+          "competitions_played": 20,
+          "competitor": {
+            "id": "sr:competitor:1020",
+            "name": "Andrea Vavassori",
+            "country": "Italy",
+            "country_code": "ITA",
+            "abbreviation": "VAV"
+          }
+        }
+      ]
+    }
+  ]
+}

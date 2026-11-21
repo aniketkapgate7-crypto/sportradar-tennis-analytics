@@ -1,0 +1,258 @@
+{
+  "generated_at": "2024-05-01T12:00:00+00:00",
+  "competitions": [
+    {
+      "id": "sr:competition:100",
+      "name": "Australian Open",
+      "parent_id": null,
+      "type": "mixed",
+      "gender": "mixed",
+      "category": {
+        "id": "sr:category:1",
+        "name": "ATP"
+      }
+    },
+    {
+      "id": "sr:competition:101",
+      "name": "Australian Open Men Singles",
+      "parent_id": "sr:competition:100",
+      "type": "singles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:1",
+        "name": "ATP"
+      }
+    },
+    {
+      "id": "sr:competition:102",
+      "name": "Australian Open Men Doubles",
+      "parent_id": "sr:competition:100",
+      "type": "doubles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:1",
+        "name": "ATP"
+      }
+    },
+    {
+      "id": "sr:competition:103",
+      "name": "Australian Open Women Singles",
+      "parent_id": "sr:competition:100",
+      "type": "singles",
+      "gender": "women",
+      "category": {
+        "id": "sr:category:2",
+        "name": "WTA"
+      }
+    },
+    {
+      "id": "sr:competition:104",
+      "name": "Australian Open Women Doubles",
+      "parent_id": "sr:competition:100",
+      "type": "doubles",
+      "gender": "women",
+      "category": {
+        "id": "sr:category:2",
+        "name": "WTA"
+      }
+    },
+    {
+      "id": "sr:competition:200",
+      "name": "Roland Garros",
+      "parent_id": null,
+      "type": "mixed",
+      "gender": "mixed",
+      "category": {
+        "id": "sr:category:1",
+        "name": "ATP"
+      }
+    },
+    {
+      "id": "sr:competition:201",
+      "name": "Roland Garros Men Singles",
+      "parent_id": "sr:competition:200",
+      "type": "singles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:1",
+        "name": "ATP"
+      }
+    },
+    {
+      "id": "sr:competition:202",
+      "name": "Roland Garros Men Doubles",
+      "parent_id": "sr:competition:200",
+      "type": "doubles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:1",
+        "name": "ATP"
+      }
+    },
+    {
+      "id": "sr:competition:300",
+      "name": "Wimbledon Championships",
+      "parent_id": null,
+      "type": "mixed",
+      "gender": "mixed",
+      "category": {
+        "id": "sr:category:1",
+        "name": "ATP"
+      }
+    },
+    {
+      "id": "sr:competition:301",
+      "name": "Wimbledon Men Singles",
+      "parent_id": "sr:competition:300",
+      "type": "singles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:1",
+        "name": "ATP"
+      }
+    },
+    {
+      "id": "sr:competition:302",
+      "name": "Wimbledon Men Doubles",
+      "parent_id": "sr:competition:300",
+      "type": "doubles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:1",
+        "name": "ATP"
+      }
+    },
+    {
+      "id": "sr:competition:400",
+      "name": "US Open Tennis Championships",
+      "parent_id": null,
+      "type": "mixed",
+      "gender": "mixed",
+      "category": {
+        "id": "sr:category:1",
+        "name": "ATP"
+      }
+    },
+    {
+      "id": "sr:competition:401",
+      "name": "US Open Men Doubles",
+      "parent_id": "sr:competition:400",
+      "type": "doubles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:1",
+        "name": "ATP"
+      }
+    },
+    {
+      "id": "sr:competition:500",
+      "name": "ATP Masters 1000 Indian Wells",
+      "parent_id": null,
+      "type": "singles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:1",
+        "name": "ATP"
+      }
+    },
+    {
+      "id": "sr:competition:501",
+      "name": "ATP Masters 1000 Indian Wells Doubles",
+      "parent_id": "sr:competition:500",
+      "type": "doubles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:1",
+        "name": "ATP"
+      }
+    },
+    {
+      "id": "sr:competition:502",
+      "name": "ATP Masters 1000 Rome",
+      "parent_id": null,
+      "type": "singles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:1",
+        "name": "ATP"
+      }
+    },
+    {
+      "id": "sr:competition:601",
+      "name": "ITF Zagreb Men Singles",
+      "parent_id": null,
+      "type": "singles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ITF Men"
+      }
+    },
+    {
+      "id": "sr:competition:602",
+      "name": "ITF Zagreb Men Doubles",
+      "parent_id": "sr:competition:601",
+      "type": "doubles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ITF Men"
+      }
+    },
+    {
+      "id": "sr:competition:603",
+      "name": "ITF Madrid Men",
+      "parent_id": null,
+      "type": "singles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ITF Men"
+      }
+    },
+    {
+      "id": "sr:competition:701",
+      "name": "ITF Prague Women",
+      "parent_id": null,
+      "type": "singles",
+      "gender": "women",
+      "category": {
+        "id": "sr:category:4",
+        "name": "ITF Women"
+      }
+    },
+    {
+      "id": "sr:competition:702",
+      "name": "ITF Prague Women Doubles",
+      "parent_id": "sr:competition:701",
+      "type": "doubles",
+      "gender": "women",
+      "category": {
+        "id": "sr:category:4",
+        "name": "ITF Women"
+      }
+    },
+    {
+      "id": "sr:competition:801",
+      "name": "WTA 1000 Miami Open",
+      "parent_id": null,
+      "type": "singles",
+      "gender": "women",
+      "category": {
+        "id": "sr:category:2",
+        "name": "WTA"
+      }
+    },
+    {
+      "id": "sr:competition:802",
+      "name": "WTA 1000 Miami Open Doubles",
+      "parent_id": "sr:competition:801",
+      "type": "doubles",
+      "gender": "women",
+      "category": {
+        "id": "sr:category:2",
+        "name": "WTA"
+      }
+    }
+  ]
+}
