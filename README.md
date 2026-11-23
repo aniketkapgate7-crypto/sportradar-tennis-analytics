@@ -59,6 +59,14 @@ sportradar-tennis-analytics/
 ├── requirements.txt                       # Project dependencies
 └── README.md                              # Complete system documentation
 ```
+### Team Members & Role Assignments
+
+| Role | Module | Team Member | GitHub | Key Responsibilities |
+| :--- | :--- | :--- | :--- | :--- |
+| **Role 1** | `role1_database_and_competitions/` | **Aniket Dnyandeo Kapgate** *(Team Lead)* | [@aniketkapgate7-crypto](https://github.com/aniketkapgate7-crypto) | Master 6-table MySQL schema (`schema.sql`), Competitions ETL, DB backup |
+| **Role 2** | `role2_complexes_and_rankings/` | **Adarsh Dwivedi** | [@Adarsh-Intelligence](https://github.com/Adarsh-Intelligence) | Complexes, Venues & Doubles Rankings ETL, unified orchestrator (`run_all_etl.py`) |
+| **Role 3** | `role3_sql_and_core_app/` | **Ramya Kulkarni** | [@rockramya](https://github.com/rockramya) | Core Streamlit dashboard (`app.py`), SQLAlchemy connection pool, Complexes & Rankings SQL |
+| **Role 4** | `role4_analytics_and_docs/` | **Syed Sadiya** | [@syedsadiya](https://github.com/syedsadiya) | Consolidated 20 SQL queries (`All_SQL_Queries.sql`), leaderboard analytics, documentation |
 
 ---
 
